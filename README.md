@@ -1,0 +1,1 @@
+Pipot Streaming -- A modular video streaming application utilizing a microservices approach. Key components include video processing, metadata management, user authentication, and content delivery.
